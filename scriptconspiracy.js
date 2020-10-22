@@ -60,3 +60,6 @@ database.ref('messages').on('child_added', function (message) {
 
 })
 
+forbut.addEventListener('click',function(event) {
+  
+})
